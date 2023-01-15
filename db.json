@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "JavaScript",
+      "isComplete": false,
+      "id": 1
+    },
+    {
+      "name": "TypeScript",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "name": "React JS",
+      "isComplete": false,
+      "id": 3
+    },
+    {
+      "name": "CSS",
+      "isComplete": false,
+      "id": 5
+    },
+    {
+      "name": "Node JS",
+      "isComplete": false,
+      "id": 6
+    },
+    {
+      "name": "Gulp",
+      "isComplete": false,
+      "id": 7
+    },
+    {
+      "name": "HTML",
+      "isComplete": false,
+      "id": 8
+    }
+  ]
+}
